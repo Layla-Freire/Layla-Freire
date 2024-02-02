@@ -7,9 +7,12 @@
 - :alembic: Química com atribuição tecnológica
 - :test_tube: Mestre em Tecnologia de Processos Químicos e Bioquímicos
 - :computer: Cursando graduação em: Big data e inteligência analítica
-#### Tecnologias
-#### Meus contatos
+#### Ferramentas e Tecnologias
 
+#### Meus contatos
+<div>
+<a href="https://www.linkedin.com/in/layla-freire" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 <!---
