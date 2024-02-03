@@ -17,7 +17,9 @@
 </div>
 
 #### Projetos
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layla-freire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?layla-freire&repo=nome_do_projeto)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/layla-freire&repo=outro_projeto)](https://github.com/anuraghazra/github-readme-stats)
 #### Estatísticas
 <div>
 <a href="https://github.com/layla-freire">
