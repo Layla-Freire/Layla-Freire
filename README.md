@@ -16,7 +16,14 @@
 <a href="https://www.linkedin.com/in/layla-freire" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+#### Projetos
 
+#### Estatísticas
+<div>
+<a href="https://github.com/layla-freire">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-freire&layout=compact&langs_count=7"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=layla-freire&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
 <!---
 Layla-Freire/Layla-Freire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
