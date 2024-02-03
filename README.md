@@ -16,10 +16,10 @@
 <a href="https://www.linkedin.com/in/layla-freire" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-#### Projetos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layla-freire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?layla-freire&repo=nome_do_projeto)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/layla-freire&repo=outro_projeto)](https://github.com/anuraghazra/github-readme-stats)
+#### Principais Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layla-freire&repo=Portifolio&show_owner=true)](https://layla-freire.github.io/portifolio/)
+
 #### Estatísticas
 <div>
 <a href="https://github.com/layla-freire">
