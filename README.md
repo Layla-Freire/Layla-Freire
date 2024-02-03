@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/layla-freire" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-#### Poetifólio
+#### Portifólio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=layla-freire&repo=Portifolio&show_owner=true)](https://layla-freire.github.io/portifolio/)
 
